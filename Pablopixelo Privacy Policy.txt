@@ -1,9 +1,0 @@
-PABLOPIXELO PRIVACY POLICY
-
-
-We do not collect any kind of sensitive data and/or information of the users of the Pablopixelo game app.
-
-We only access the user's device's local storage for one singular purpose - to store and update the top score of each round of the game.
-
-
-If you have any question regarding this privacy policy, please contact us at kipstetik@gmail.com .
